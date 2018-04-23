@@ -19,8 +19,10 @@ body > div > div{
     height: 15em;
 }
 
-body > div > div > div{
+#floating{
     background-color: yellow;
     height: 7.5em;
     width: 7.5em;
+    padding: 0;
+    float: left;
 }
